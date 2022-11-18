@@ -36,7 +36,7 @@ My main issue was ensuring my page was able to show the colors for the current t
 ## General info
 This is a page developed through HTML and later styled through CSS. The main functionality of the page comes from Java Script which allows for the interactivity by the user to be able to go into the page and save tasks onto the daily planner. The user is presented with a page containing a daily planner which presents three different colors, red for present, green for the future and grey for the past time. The user is able to actively keep track of their page by going back and furth to add and remove tasks that will be saved to the page so the user can reload the page for them still to be there.
 ## Page link
-
+https://adibasjd.github.io/week-5-planner/
 
 
 
